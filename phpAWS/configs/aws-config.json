@@ -1,0 +1,13 @@
+{
+    "user-arn": "",
+    "access-key": "",
+    "secret-key": "",
+
+
+    "queue-url": "",
+    "sqs-region": "",
+
+
+    "email-sender": "",
+    "ses-region": ""
+}

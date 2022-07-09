@@ -1,4 +1,4 @@
-![alt text](https://mail.google.com/mail/u/1?ui=2&ik=1c21c2c489&attid=0.0.1&permmsgid=msg-f:1737509060557468551&th=181cdf48ec8cf387&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-97TDIO4KITZRJAu4cUeuCpWXY4aab3ajOii8fEPIoOhA-7DAxu0cKO0K0yGMXth-qbhtG2gxZ6sX0qSGYBIQIvabqUIXMPK2CLgl2IhjyyCeRp5NqzPdTGQI&disp=emb)
+![alt text](https://imgur.com/a/9IdQJLf)
 
 ## In order to use AWS, the configuration file (phpAWS/configs/aws-config.json) must contain:
 

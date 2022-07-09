@@ -1,6 +1,4 @@
-<img src="https://imgur.com/a/9IdQJLf"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## In order to use AWS, the configuration file (phpAWS/configs/aws-config.json) must contain:
 

@@ -33,7 +33,7 @@ Finally, type in your browser:
 ```
 
 ## Do not forget to configure AWS policies as well:
-> S3 Bucket Policy:
+>## S3 Bucket Policy:
 ```sh
  {
     "Version": "2012-10-17",

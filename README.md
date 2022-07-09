@@ -58,7 +58,7 @@ Finally, type in your browser:
 }
 ```
 
-## S3 Bucket Cross-origin resource sharing (CORS)
+>## S3 Bucket Cross-origin resource sharing (CORS)
 ```sh
  [
     {
@@ -80,7 +80,7 @@ Finally, type in your browser:
 ]
 ```
 
-## Amazon SES
+>## Amazon SES
 ```sh
 {
   "Version": "2012-10-17",
@@ -104,7 +104,7 @@ Finally, type in your browser:
 }
 ```
 
-## SQS Policy 
+>## SQS Policy 
 ```sh
 {
   "Version": "2008-10-17",
@@ -128,7 +128,7 @@ Finally, type in your browser:
 }
 ```
 
-## User Inline Policy
+>## User Inline Policy
 ```sh
 {
     "Version": "2012-10-17",

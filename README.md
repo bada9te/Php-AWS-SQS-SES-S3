@@ -1,4 +1,4 @@
-![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SVG_Logo.svg/1200px-SVG_Logo.svg.png)
+![This is an image](https://i.imgur.com/OGGb2DN.png)
 
 ## In order to use AWS, the configuration file (phpAWS/configs/aws-config.json) must contain:
 

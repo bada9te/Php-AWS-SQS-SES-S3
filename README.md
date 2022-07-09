@@ -1,4 +1,6 @@
-![alt text](https://imgur.com/a/9IdQJLf.git)
+<img src="https://imgur.com/a/9IdQJLf"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 ## In order to use AWS, the configuration file (phpAWS/configs/aws-config.json) must contain:
 

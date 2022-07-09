@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/a/9IdQJLf)
+![alt text](https://imgur.com/a/9IdQJLf.git)
 
 ## In order to use AWS, the configuration file (phpAWS/configs/aws-config.json) must contain:
 

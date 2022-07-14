@@ -36,7 +36,7 @@
                 $s3OBJECT = new MyS3($config['access-key'], $config['secret-key'], $s3bucket_config["bucket-name"], $s3bucket_config["bucket-region"]);
                 $sqsOBJECT = new MySQS($config['access-key'], $config['secret-key'], $config["queue-url"], $config["sqs-region"]);
 
-                // file, readed from s3bucket
+                // file, red from s3bucket
                 $file_full_path = $s3bucket_config['file-path'];
                 $file_name = basename($file_full_path);
                 /* ______________________________________________ SETUP ______________________________________________ */
